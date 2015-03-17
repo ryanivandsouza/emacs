@@ -1,0 +1,23 @@
+NTUSER.*
+*~
+.bash*
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Mail/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+SkyDrive/
+Tracing/
+Videos/
+.scala_history
+*#*
+workspace/
+.gitconfig
